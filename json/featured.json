@@ -1,19 +1,19 @@
 {
   "categories": [
     {
-      "img": "",
+      "img": "/women_fashion.webp",
       "title": "Women's Fashion"
     },
     {
-      "img": "",
+      "img": "/men_fashion.webp",
       "title": "Men's Fashion"
     },
     {
-      "img": "",
+      "img": "/cosmetics.webp",
       "title": "Cosmetics"
     },
     {
-      "img": "",
+      "img": "/gadget_watch.webp",
       "title": "Gadgets"
     }
   ]
