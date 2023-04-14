@@ -12,7 +12,7 @@ export default function Topbar() {
         <FacebookIcon />
         <Twitter />
         <Instagram />
-      </Box>
+      </Box>g
     </Box>
   );
 }
