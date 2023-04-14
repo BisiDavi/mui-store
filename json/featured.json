@@ -16,5 +16,79 @@
       "img": "/gadget_watch.webp",
       "title": "Gadgets"
     }
+  ],
+  "products": [
+    {
+      "img": "/1.webp",
+      "category": "Men's Fashion",
+      "title": "Blue High Neck Sweater",
+      "price": 150,
+      "rating": 5,
+      "reviews": 10
+    },
+    {
+      "img": "/2.webp",
+      "category": "Men's Fashion",
+      "title": "Blue Denim Jeans",
+      "price": 100,
+      "rating": 4,
+      "reviews": 4
+    },
+    {
+      "img": "/3.webp",
+      "category": "Women's Fashion",
+      "title": "Yellow Cotton Sweater",
+      "price": 100,
+      "rating": 5,
+      "reviews": 15
+    },
+    {
+      "img": "/4.webp",
+      "category": "Men's Fashion",
+      "title": "Checkered Black and White Sweater",
+      "price": 160,
+      "rating": 4,
+      "reviews": 10
+    },
+    {
+      "img": "/5.webp",
+      "category": "Women's Fashion",
+      "title": "Gray Overcoat - Women",
+      "price": 110,
+      "rating": 5,
+      "reviews": 20
+    },
+    {
+      "img": "/6.webp",
+      "category": "Women's Fashion",
+      "title": "Gray Cotton Sweater",
+      "price": 120,
+      "rating": 5,
+      "reviews": 7
+    },
+    {
+      "img": "/7.webp",
+      "category": "Men's Fashion",
+      "title": "Nike Red Shoe",
+      "price": 180,
+      "rating": 5,
+      "reviews": 4
+    },
+    {
+      "img": "/8.webp",
+      "category": "Women's Fashion",
+      "title": "Yellow Cotton Sweater",
+      "price": 100,
+      "rating": 5,
+      "reviews": 15
+    },
+    {
+      "img": "/2.webp",
+      "category": "Women's Fashion",
+      "title": "North Star Blue Shoe",
+      "price": 150,
+      "rating": 5,
+      "reviews": 15
+    }
   ]
 }
