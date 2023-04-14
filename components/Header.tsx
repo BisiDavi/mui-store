@@ -1,4 +1,5 @@
 import Box from "@mui/material/Box";
+
 import Logo from "@/components/Logo";
 import Search from "@/components/Search";
 

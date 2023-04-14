@@ -7,7 +7,7 @@ import displayInfoIcon from "@/utils/displayInfoIcon";
 
 export default function InfoBanner() {
   return (
-    <Paper sx={{ display: "flex" }}>
+    <Paper sx={{ display: "flex", my: 10 }} component="section">
       {info_banner.map((item) => (
         <Box key={item.title}>
           {displayInfoIcon(item.icon)}
